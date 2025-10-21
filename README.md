@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Sai Ganesh Naguboyina  
 
-<!--
-**SaiGaneshNaguboyina/SaiGaneshNaguboyina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm an **undergraduate student in Artificial Intelligence and Machine Learning**, passionate about building smart, data-driven solutions that make an impact.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me  
+- 🔍 Interested in **Machine Learning, Data Analytics, and AI Applications**  
+- 💡 Love exploring **Flask / FastAPI projects** and **model deployment**  
+- 🧩 Always learning something new in tech and experimenting with ideas  
+- ⚙️ Focused on writing clean, simple, and efficient code
+  
+---
+
+## 🛠️ Tech Stack  
+**Languages:** Python, C, Java  
+**Frameworks:** Flask, FastAPI, Scikit-learn, TensorFlow, Pandas, NumPy, Matplotlib  
+**Tools:** Git, Jupyter Notebook, VS Code, Postman  
+**Databases:** MySQL, SSMS  
+
+---
+
+## 🌱 Currently Learning  
+- Deep Learning (CNNs, RNNs)  
+- Model Deployment (Docker, FastAPI)  
+- Data Visualization (Power BI, Tableau)
+
+---
+
+## 🤝 Connect With Me  
+📧 **Email:** naguboyinasaiganesh@gmail.com  
+💼 [LinkedIn](https://www.linkedin.com/in/sai-ganesh-n)  
